@@ -675,6 +675,7 @@
     "credit": 3,
     "creditHours": "ee365962-09bc-4abf-ad9c-20f66e6a87d5",
     "courseCondition": "Chief Program Liaison",
+    "genEdType": "",
     "midterm": {
       "date": "2020-01-16T03:38:18.349Z",
       "period": {
@@ -877,6 +878,7 @@
     "credit": 3,
     "creditHours": "b1a5d70f-c99e-4004-b708-626a3724f732",
     "courseCondition": "Legacy Functionality Analyst",
+    "genEdType": "",
     "midterm": {
       "date": "2022-04-10T02:06:27.080Z",
       "period": {
@@ -1049,6 +1051,7 @@
     "credit": 2,
     "creditHours": "a1ca64ba-28f4-4421-b21f-56a8733596da",
     "courseCondition": "Internal Response Coordinator",
+    "genEdType": "",
     "midterm": {
       "date": "2021-11-29T11:01:22.710Z",
       "period": {
@@ -1405,6 +1408,7 @@
     "credit": 1,
     "creditHours": "259cdbe9-74c0-4ea9-9cb6-2a8013467b95",
     "courseCondition": "Investor Quality Liaison",
+    "genEdType": "",
     "midterm": {
       "date": "2023-01-24T18:53:13.706Z",
       "period": {
@@ -1522,6 +1526,7 @@
     "credit": 3,
     "creditHours": "23430db6-1c8d-458c-8b1d-c30bfa243498",
     "courseCondition": "Direct Response Engineer",
+    "genEdType": "",
     "midterm": {
       "date": "2022-08-17T17:58:44.667Z",
       "period": {
@@ -1573,6 +1578,7 @@
     "credit": 2,
     "creditHours": "fc59f974-fac2-452e-9fcd-2c8abc781a5b",
     "courseCondition": "Principal Implementation Analyst",
+    "genEdType": "",
     "midterm": {
       "date": "2020-01-11T09:27:17.564Z",
       "period": {
@@ -1742,6 +1748,7 @@
     "credit": 2,
     "creditHours": "c6ce255f-4f8f-484a-bca5-70a9dcaf88f4",
     "courseCondition": "Product Interactions Consultant",
+    "genEdType": "",
     "midterm": {
       "date": "2022-03-13T09:35:41.719Z",
       "period": {
@@ -2010,6 +2017,7 @@
     "credit": 4,
     "creditHours": "a775e77a-3f66-490f-89ef-2fe344cbd306",
     "courseCondition": "Chief Configuration Associate",
+    "genEdType": "",
     "midterm": {
       "date": "2022-02-16T09:04:02.768Z",
       "period": {
@@ -2157,6 +2165,7 @@
     "credit": 4,
     "creditHours": "8c18bef1-98ff-4e8e-a837-b3f9aac8412b",
     "courseCondition": "International Intranet Architect",
+    "genEdType": "",
     "midterm": {
       "date": "2021-06-24T14:30:21.313Z",
       "period": {
@@ -2414,6 +2423,7 @@
     "credit": 4,
     "creditHours": "e00b6030-5309-4c9e-b4bb-78c32ea428c3",
     "courseCondition": "Investor Integration Director",
+    "genEdType": "",
     "midterm": {
       "date": "2022-02-15T13:27:50.689Z",
       "period": {
@@ -2542,6 +2552,7 @@
     "credit": 3,
     "creditHours": "98348a5b-064a-4662-8242-1f28b24d9f51",
     "courseCondition": "Senior Program Supervisor",
+    "genEdType": "",
     "midterm": {
       "date": "2020-12-18T10:59:09.788Z",
       "period": {
@@ -2799,6 +2810,7 @@
     "credit": 2,
     "creditHours": "ffa3e4ae-8601-41f2-b287-a0872f4e8f62",
     "courseCondition": "Central Mobility Agent",
+    "genEdType": "",
     "midterm": {
       "date": "2021-05-05T21:58:56.938Z",
       "period": {
