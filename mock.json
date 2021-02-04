@@ -46,7 +46,7 @@
             },
             "building": "ENG3",
             "room": "303",
-            "teachers": ["Noemi"]
+            "teachers": ["NNN"]
           }
         ]
       },
@@ -68,7 +68,7 @@
             },
             "building": "ENG3",
             "room": "AR",
-            "teachers": ["Oceane"]
+            "teachers": ["NNN"]
           },
           {
             "type": "LAB",
@@ -79,7 +79,7 @@
             },
             "building": "ENG1",
             "room": "303",
-            "teachers": ["Aryanna"]
+            "teachers": ["NNN"]
           }
         ]
       },
@@ -101,7 +101,7 @@
             },
             "building": "AR",
             "room": "101",
-            "teachers": ["Henri"]
+            "teachers": ["NNN"]
           },
           {
             "type": "DISC",
@@ -112,7 +112,7 @@
             },
             "building": "ENG2",
             "room": "303",
-            "teachers": ["Felix"]
+            "teachers": ["NNN"]
           }
         ]
       },
@@ -134,7 +134,7 @@
             },
             "building": "ENG100",
             "room": "AR",
-            "teachers": ["Lexus"]
+            "teachers": ["NNN"]
           },
           {
             "type": "FWK",
@@ -145,7 +145,7 @@
             },
             "building": "AR",
             "room": "202",
-            "teachers": ["Kip"]
+            "teachers": ["NNN"]
           }
         ]
       },
@@ -167,7 +167,7 @@
             },
             "building": "ENG100",
             "room": "404",
-            "teachers": ["Minerva"]
+            "teachers": ["NNN"]
           },
           {
             "type": "PRAC",
@@ -178,7 +178,7 @@
             },
             "building": "ENG1",
             "room": "303",
-            "teachers": ["Royce"]
+            "teachers": ["NNN"]
           }
         ]
       }
@@ -231,7 +231,7 @@
             },
             "building": "AR",
             "room": "101",
-            "teachers": ["Pascale"]
+            "teachers": ["NNN"]
           },
           {
             "type": "LAB",
@@ -242,7 +242,7 @@
             },
             "building": "AR",
             "room": "202",
-            "teachers": ["Aurelio"]
+            "teachers": ["NNN"]
           }
         ]
       }
@@ -295,7 +295,7 @@
             },
             "building": "ENG2",
             "room": "505",
-            "teachers": ["Santos"]
+            "teachers": ["NNN"]
           },
           {
             "type": "SMNA",
@@ -306,7 +306,7 @@
             },
             "building": "ENG100",
             "room": "101",
-            "teachers": ["Nellie"]
+            "teachers": ["NNN"]
           }
         ]
       },
@@ -328,7 +328,7 @@
             },
             "building": "AR",
             "room": "404",
-            "teachers": ["Florencio"]
+            "teachers": ["NNN"]
           }
         ]
       }
@@ -381,7 +381,7 @@
             },
             "building": "ENG3",
             "room": "AR",
-            "teachers": ["Joana"]
+            "teachers": ["NNN"]
           }
         ]
       },
@@ -403,7 +403,7 @@
             },
             "building": "ENG2",
             "room": "202",
-            "teachers": ["Gerson"]
+            "teachers": ["NNN"]
           },
           {
             "type": "SMNA",
@@ -414,7 +414,7 @@
             },
             "building": "ENG3",
             "room": "AR",
-            "teachers": ["Sydnee"]
+            "teachers": ["NNN"]
           }
         ]
       }
@@ -467,7 +467,7 @@
             },
             "building": "ENG1",
             "room": "202",
-            "teachers": ["Lora"]
+            "teachers": ["NNN"]
           },
           {
             "type": "LECT",
@@ -478,7 +478,7 @@
             },
             "building": "AR",
             "room": "505",
-            "teachers": ["Daron"]
+            "teachers": ["NNN"]
           }
         ]
       },
@@ -500,7 +500,7 @@
             },
             "building": "ENG1",
             "room": "404",
-            "teachers": ["Gus"]
+            "teachers": ["NNN"]
           }
         ]
       },
@@ -522,7 +522,7 @@
             },
             "building": "ENG3",
             "room": "202",
-            "teachers": ["Kassandra"]
+            "teachers": ["NNN"]
           }
         ]
       },
@@ -544,7 +544,7 @@
             },
             "building": "ENG3",
             "room": "303",
-            "teachers": ["Kali"]
+            "teachers": ["NNN"]
           }
         ]
       }
@@ -597,7 +597,7 @@
             },
             "building": "ENG2",
             "room": "404",
-            "teachers": ["Aliza"]
+            "teachers": ["NNN"]
           },
           {
             "type": "LAB",
@@ -608,7 +608,7 @@
             },
             "building": "ENG2",
             "room": "202",
-            "teachers": ["Erin"]
+            "teachers": ["NNN"]
           }
         ]
       },
@@ -630,7 +630,7 @@
             },
             "building": "ENG2",
             "room": "404",
-            "teachers": ["Deja"]
+            "teachers": ["NNN"]
           },
           {
             "type": "LECT",
@@ -641,7 +641,7 @@
             },
             "building": "ENG100",
             "room": "AR",
-            "teachers": ["Sydney"]
+            "teachers": ["NNN"]
           }
         ]
       },
@@ -663,7 +663,7 @@
             },
             "building": "ENG2",
             "room": "404",
-            "teachers": ["Tianna"]
+            "teachers": ["NNN"]
           }
         ]
       }
@@ -716,7 +716,7 @@
             },
             "building": "ENG100",
             "room": "404",
-            "teachers": ["Vladimir"]
+            "teachers": ["NNN"]
           }
         ]
       }
@@ -769,7 +769,7 @@
             },
             "building": "ENG2",
             "room": "101",
-            "teachers": ["Lavinia"]
+            "teachers": ["NNN", "AST"]
           },
           {
             "type": "IDPS",
@@ -780,7 +780,7 @@
             },
             "building": "ENG2",
             "room": "202",
-            "teachers": ["Ebony"]
+            "teachers": ["NNN", "AST"]
           }
         ]
       },
@@ -802,7 +802,7 @@
             },
             "building": "ENG3",
             "room": "303",
-            "teachers": ["Lyla"]
+            "teachers": ["NNN", "AST"]
           },
           {
             "type": "FWK",
@@ -813,7 +813,7 @@
             },
             "building": "ENG1",
             "room": "303",
-            "teachers": ["Donny"]
+            "teachers": ["NNN", "AST"]
           }
         ]
       },
@@ -835,7 +835,7 @@
             },
             "building": "ENG1",
             "room": "505",
-            "teachers": ["Edmund"]
+            "teachers": ["NNN", "AST"]
           },
           {
             "type": "LECT",
@@ -846,7 +846,7 @@
             },
             "building": "ENG3",
             "room": "202",
-            "teachers": ["Elroy"]
+            "teachers": ["NNN", "AST"]
           }
         ]
       },
@@ -868,7 +868,7 @@
             },
             "building": "ENG1",
             "room": "202",
-            "teachers": ["Milton"]
+            "teachers": ["NNN", "AST"]
           }
         ]
       }
@@ -921,7 +921,7 @@
             },
             "building": "ENG100",
             "room": "101",
-            "teachers": ["Archibald"]
+            "teachers": ["NNN", "AST"]
           }
         ]
       },
@@ -943,7 +943,7 @@
             },
             "building": "AR",
             "room": "505",
-            "teachers": ["Gerardo"]
+            "teachers": ["NNN", "AST"]
           },
           {
             "type": "PRAC",
@@ -954,7 +954,7 @@
             },
             "building": "ENG100",
             "room": "505",
-            "teachers": ["Alex"]
+            "teachers": ["NNN", "AST"]
           }
         ]
       },
@@ -976,7 +976,7 @@
             },
             "building": "ENG2",
             "room": "101",
-            "teachers": ["Jamir"]
+            "teachers": ["NNN", "AST"]
           },
           {
             "type": "SMNA",
@@ -987,7 +987,7 @@
             },
             "building": "AR",
             "room": "202",
-            "teachers": ["Joana"]
+            "teachers": ["NNN", "AST"]
           }
         ]
       },
@@ -1009,7 +1009,7 @@
             },
             "building": "ENG3",
             "room": "202",
-            "teachers": ["Cristian"]
+            "teachers": ["NNN", "AST"]
           }
         ]
       },
@@ -1031,7 +1031,7 @@
             },
             "building": "ENG100",
             "room": "404",
-            "teachers": ["Kelli"]
+            "teachers": ["NNN", "AST"]
           },
           {
             "type": "PRAC",
@@ -1042,7 +1042,7 @@
             },
             "building": "AR",
             "room": "505",
-            "teachers": ["Hipolito"]
+            "teachers": ["NNN", "AST"]
           }
         ]
       }
@@ -1095,7 +1095,7 @@
             },
             "building": "ENG3",
             "room": "202",
-            "teachers": ["Nadia"]
+            "teachers": ["NNN", "AST"]
           },
           {
             "type": "FWK",
@@ -1106,7 +1106,7 @@
             },
             "building": "ENG2",
             "room": "303",
-            "teachers": ["Pablo"]
+            "teachers": ["NNN", "AST"]
           }
         ]
       },
@@ -1128,7 +1128,7 @@
             },
             "building": "ENG3",
             "room": "404",
-            "teachers": ["Maxie"]
+            "teachers": ["NNN", "AST"]
           }
         ]
       },
@@ -1150,7 +1150,7 @@
             },
             "building": "ENG3",
             "room": "404",
-            "teachers": ["Antone"]
+            "teachers": ["NNN", "AST"]
           },
           {
             "type": "PRAC",
@@ -1161,7 +1161,7 @@
             },
             "building": "ENG3",
             "room": "202",
-            "teachers": ["Jonatan"]
+            "teachers": ["NNN", "AST"]
           }
         ]
       },
@@ -1183,7 +1183,7 @@
             },
             "building": "AR",
             "room": "303",
-            "teachers": ["Craig"]
+            "teachers": ["NNN", "AST"]
           },
           {
             "type": "IDPS",
@@ -1194,7 +1194,7 @@
             },
             "building": "ENG2",
             "room": "303",
-            "teachers": ["Osbaldo"]
+            "teachers": ["NNN", "AST"]
           }
         ]
       },
@@ -1216,7 +1216,7 @@
             },
             "building": "ENG2",
             "room": "505",
-            "teachers": ["Audie"]
+            "teachers": ["NNN", "AST"]
           },
           {
             "type": "SMNA",
@@ -1227,7 +1227,7 @@
             },
             "building": "ENG2",
             "room": "303",
-            "teachers": ["Elvie"]
+            "teachers": ["NNN", "AST"]
           }
         ]
       }
@@ -1280,7 +1280,7 @@
             },
             "building": "ENG3",
             "room": "101",
-            "teachers": ["Kianna"]
+            "teachers": ["NNN", "AST"]
           }
         ]
       },
@@ -1302,7 +1302,7 @@
             },
             "building": "ENG1",
             "room": "101",
-            "teachers": ["Eldon"]
+            "teachers": ["NNN", "AST"]
           }
         ]
       },
@@ -1324,7 +1324,7 @@
             },
             "building": "AR",
             "room": "AR",
-            "teachers": ["Karine"]
+            "teachers": ["NNN", "AST"]
           },
           {
             "type": "PRAC",
@@ -1335,7 +1335,7 @@
             },
             "building": "ENG3",
             "room": "303",
-            "teachers": ["Miracle"]
+            "teachers": ["NNN", "AST"]
           }
         ]
       },
@@ -1357,7 +1357,7 @@
             },
             "building": "ENG100",
             "room": "505",
-            "teachers": ["Annie"]
+            "teachers": ["NNN", "AST"]
           },
           {
             "type": "PRAC",
@@ -1368,7 +1368,7 @@
             },
             "building": "ENG1",
             "room": "AR",
-            "teachers": ["Malcolm"]
+            "teachers": ["NNN", "AST"]
           }
         ]
       },
@@ -1390,7 +1390,7 @@
             },
             "building": "AR",
             "room": "303",
-            "teachers": ["Julio"]
+            "teachers": ["NNN", "AST"]
           },
           {
             "type": "LAB",
@@ -1401,7 +1401,7 @@
             },
             "building": "AR",
             "room": "505",
-            "teachers": ["Ronaldo"]
+            "teachers": ["NNN", "AST"]
           }
         ]
       }
@@ -1454,7 +1454,7 @@
             },
             "building": "AR",
             "room": "404",
-            "teachers": ["Stefanie"]
+            "teachers": ["NNN", "AST"]
           }
         ]
       },
@@ -1476,7 +1476,7 @@
             },
             "building": "ENG100",
             "room": "202",
-            "teachers": ["Chelsea"]
+            "teachers": ["NNN", "AST"]
           },
           {
             "type": "PRAC",
@@ -1487,7 +1487,7 @@
             },
             "building": "ENG100",
             "room": "101",
-            "teachers": ["Leda"]
+            "teachers": ["NNN", "AST"]
           }
         ]
       },
@@ -1509,7 +1509,7 @@
             },
             "building": "ENG3",
             "room": "202",
-            "teachers": ["Ashly"]
+            "teachers": ["NNN", "AST"]
           },
           {
             "type": "DISC",
@@ -1520,7 +1520,7 @@
             },
             "building": "ENG1",
             "room": "303",
-            "teachers": ["Therese"]
+            "teachers": ["NNN", "AST"]
           }
         ]
       }
@@ -1573,7 +1573,7 @@
             },
             "building": "AR",
             "room": "505",
-            "teachers": ["Maia"]
+            "teachers": ["NNN", "AST"]
           }
         ]
       }
@@ -1626,7 +1626,7 @@
             },
             "building": "ENG1",
             "room": "202",
-            "teachers": ["Percival"]
+            "teachers": ["NNN", "AST"]
           }
         ]
       },
@@ -1648,7 +1648,7 @@
             },
             "building": "AR",
             "room": "101",
-            "teachers": ["Hannah"]
+            "teachers": ["NNN", "AST"]
           }
         ]
       }
@@ -1701,7 +1701,7 @@
             },
             "building": "ENG3",
             "room": "505",
-            "teachers": ["Osvaldo"]
+            "teachers": ["NNN", "AST"]
           },
           {
             "type": "DISC",
@@ -1712,7 +1712,7 @@
             },
             "building": "ENG100",
             "room": "AR",
-            "teachers": ["Breanna"]
+            "teachers": ["NNN", "AST"]
           }
         ]
       },
@@ -1734,7 +1734,7 @@
             },
             "building": "AR",
             "room": "505",
-            "teachers": ["Anika"]
+            "teachers": ["NNN", "AST"]
           },
           {
             "type": "IDPS",
@@ -1745,7 +1745,7 @@
             },
             "building": "ENG1",
             "room": "505",
-            "teachers": ["Toby"]
+            "teachers": ["NNN", "AST"]
           }
         ]
       }
@@ -1798,7 +1798,7 @@
             },
             "building": "ENG100",
             "room": "AR",
-            "teachers": ["Alphonso"]
+            "teachers": ["NNN", "AST"]
           }
         ]
       },
@@ -1820,7 +1820,7 @@
             },
             "building": "ENG100",
             "room": "AR",
-            "teachers": ["Buddy"]
+            "teachers": ["NNN", "AST"]
           }
         ]
       },
@@ -1842,7 +1842,7 @@
             },
             "building": "AR",
             "room": "303",
-            "teachers": ["Macy"]
+            "teachers": ["NNN", "AST"]
           }
         ]
       }
@@ -1895,7 +1895,7 @@
             },
             "building": "ENG3",
             "room": "303",
-            "teachers": ["Freeda"]
+            "teachers": ["NNN", "AST"]
           }
         ]
       },
@@ -1917,7 +1917,7 @@
             },
             "building": "ENG1",
             "room": "505",
-            "teachers": ["Lionel"]
+            "teachers": ["NNN", "AST"]
           },
           {
             "type": "PRAC",
@@ -1928,7 +1928,7 @@
             },
             "building": "ENG100",
             "room": "202",
-            "teachers": ["Eugenia"]
+            "teachers": ["NNN", "AST"]
           }
         ]
       },
@@ -1950,7 +1950,7 @@
             },
             "building": "ENG100",
             "room": "101",
-            "teachers": ["Jerrell"]
+            "teachers": ["NNN", "AST"]
           }
         ]
       },
@@ -1972,7 +1972,7 @@
             },
             "building": "ENG1",
             "room": "101",
-            "teachers": ["Frieda"]
+            "teachers": ["NNN", "AST"]
           },
           {
             "type": "SMNA",
@@ -1983,7 +1983,7 @@
             },
             "building": "AR",
             "room": "101",
-            "teachers": ["Mohammad"]
+            "teachers": ["NNN", "AST"]
           }
         ]
       },
@@ -2005,7 +2005,7 @@
             },
             "building": "ENG2",
             "room": "AR",
-            "teachers": ["Winston"]
+            "teachers": ["NNN", "AST"]
           },
           {
             "type": "SMNA",
@@ -2016,7 +2016,7 @@
             },
             "building": "ENG1",
             "room": "404",
-            "teachers": ["Hilma"]
+            "teachers": ["NNN", "AST"]
           }
         ]
       }
@@ -2069,7 +2069,7 @@
             },
             "building": "ENG3",
             "room": "404",
-            "teachers": ["Sofia"]
+            "teachers": ["NNN", "AST", "STAFF"]
           }
         ]
       },
@@ -2091,7 +2091,7 @@
             },
             "building": "ENG2",
             "room": "202",
-            "teachers": ["Teagan"]
+            "teachers": ["NNN", "AST", "STAFF"]
           },
           {
             "type": "DISC",
@@ -2102,7 +2102,7 @@
             },
             "building": "ENG100",
             "room": "505",
-            "teachers": ["Dagmar"]
+            "teachers": ["NNN", "AST", "STAFF"]
           }
         ]
       }
@@ -2155,7 +2155,7 @@
             },
             "building": "ENG1",
             "room": "303",
-            "teachers": ["Anais"]
+            "teachers": ["NNN", "AST", "STAFF"]
           },
           {
             "type": "DISC",
@@ -2166,7 +2166,7 @@
             },
             "building": "AR",
             "room": "202",
-            "teachers": ["Trystan"]
+            "teachers": ["NNN", "AST", "STAFF"]
           }
         ]
       }
@@ -2219,7 +2219,7 @@
             },
             "building": "ENG3",
             "room": "303",
-            "teachers": ["Tyrique"]
+            "teachers": ["NNN", "AST", "STAFF"]
           },
           {
             "type": "SMNA",
@@ -2230,7 +2230,7 @@
             },
             "building": "ENG1",
             "room": "404",
-            "teachers": ["Hailee"]
+            "teachers": ["NNN", "AST", "STAFF"]
           }
         ]
       },
@@ -2252,7 +2252,7 @@
             },
             "building": "ENG2",
             "room": "404",
-            "teachers": ["Aisha"]
+            "teachers": ["NNN", "AST", "STAFF"]
           }
         ]
       },
@@ -2274,7 +2274,7 @@
             },
             "building": "ENG1",
             "room": "404",
-            "teachers": ["Elmira"]
+            "teachers": ["NNN", "AST", "STAFF"]
           },
           {
             "type": "LECT",
@@ -2285,7 +2285,7 @@
             },
             "building": "ENG2",
             "room": "202",
-            "teachers": ["Dillon"]
+            "teachers": ["NNN", "AST", "STAFF"]
           }
         ]
       }
@@ -2338,7 +2338,7 @@
             },
             "building": "ENG100",
             "room": "505",
-            "teachers": ["Madisyn"]
+            "teachers": ["NNN", "AST", "STAFF"]
           },
           {
             "type": "FWK",
@@ -2349,7 +2349,7 @@
             },
             "building": "ENG2",
             "room": "202",
-            "teachers": ["Schuyler"]
+            "teachers": ["NNN", "AST", "STAFF"]
           }
         ]
       },
@@ -2371,7 +2371,7 @@
             },
             "building": "ENG3",
             "room": "202",
-            "teachers": ["Glennie"]
+            "teachers": ["NNN", "AST", "STAFF"]
           },
           {
             "type": "LECT",
@@ -2382,7 +2382,7 @@
             },
             "building": "ENG2",
             "room": "505",
-            "teachers": ["Myra"]
+            "teachers": ["NNN", "AST", "STAFF"]
           }
         ]
       },
@@ -2404,7 +2404,7 @@
             },
             "building": "ENG2",
             "room": "202",
-            "teachers": ["Preston"]
+            "teachers": ["NNN", "AST", "STAFF"]
           }
         ]
       },
@@ -2426,7 +2426,7 @@
             },
             "building": "ENG1",
             "room": "202",
-            "teachers": ["Charlotte"]
+            "teachers": ["NNN", "AST", "STAFF"]
           }
         ]
       }
@@ -2479,7 +2479,7 @@
             },
             "building": "AR",
             "room": "303",
-            "teachers": ["Koby"]
+            "teachers": ["NNN", "AST", "STAFF"]
           },
           {
             "type": "LAB",
@@ -2490,7 +2490,7 @@
             },
             "building": "ENG3",
             "room": "303",
-            "teachers": ["Gust"]
+            "teachers": ["NNN", "AST", "STAFF"]
           }
         ]
       },
@@ -2512,7 +2512,7 @@
             },
             "building": "ENG1",
             "room": "505",
-            "teachers": ["Celine"]
+            "teachers": ["NNN", "AST", "STAFF"]
           }
         ]
       },
@@ -2534,7 +2534,7 @@
             },
             "building": "AR",
             "room": "303",
-            "teachers": ["Elmo"]
+            "teachers": ["NNN", "AST", "STAFF"]
           }
         ]
       },
@@ -2556,7 +2556,7 @@
             },
             "building": "ENG3",
             "room": "101",
-            "teachers": ["Gilbert"]
+            "teachers": ["NNN", "AST", "STAFF"]
           }
         ]
       }
@@ -2609,7 +2609,7 @@
             },
             "building": "ENG100",
             "room": "404",
-            "teachers": ["Toy"]
+            "teachers": ["STAFF"]
           },
           {
             "type": "FWK",
@@ -2620,7 +2620,7 @@
             },
             "building": "ENG3",
             "room": "101",
-            "teachers": ["Lorenz"]
+            "teachers": ["STAFF"]
           }
         ]
       },
@@ -2642,7 +2642,7 @@
             },
             "building": "ENG100",
             "room": "303",
-            "teachers": ["Travon"]
+            "teachers": ["STAFF"]
           }
         ]
       },
@@ -2664,7 +2664,7 @@
             },
             "building": "ENG3",
             "room": "AR",
-            "teachers": ["Duane"]
+            "teachers": ["STAFF"]
           }
         ]
       },
@@ -2686,7 +2686,7 @@
             },
             "building": "ENG3",
             "room": "505",
-            "teachers": ["Manuel"]
+            "teachers": ["STAFF"]
           }
         ]
       }
@@ -2739,7 +2739,7 @@
             },
             "building": "ENG2",
             "room": "101",
-            "teachers": ["Anabel"]
+            "teachers": ["STAFF"]
           }
         ]
       },
@@ -2761,7 +2761,7 @@
             },
             "building": "ENG1",
             "room": "101",
-            "teachers": ["Corrine"]
+            "teachers": ["STAFF"]
           }
         ]
       },
@@ -2783,7 +2783,7 @@
             },
             "building": "ENG100",
             "room": "505",
-            "teachers": ["Darien"]
+            "teachers": ["STAFF"]
           }
         ]
       },
@@ -2805,7 +2805,7 @@
             },
             "building": "ENG3",
             "room": "404",
-            "teachers": ["Immanuel"]
+            "teachers": ["STAFF"]
           },
           {
             "type": "PRAC",
@@ -2816,7 +2816,7 @@
             },
             "building": "AR",
             "room": "101",
-            "teachers": ["Gretchen"]
+            "teachers": ["STAFF"]
           }
         ]
       }
@@ -2869,7 +2869,7 @@
             },
             "building": "ENG100",
             "room": "505",
-            "teachers": ["Hadley"]
+            "teachers": ["STAFF"]
           },
           {
             "type": "IDPS",
@@ -2880,7 +2880,7 @@
             },
             "building": "ENG100",
             "room": "AR",
-            "teachers": ["Jose"]
+            "teachers": ["STAFF"]
           }
         ]
       },
@@ -2902,7 +2902,7 @@
             },
             "building": "ENG1",
             "room": "404",
-            "teachers": ["Nat"]
+            "teachers": ["STAFF"]
           }
         ]
       },
@@ -2924,7 +2924,7 @@
             },
             "building": "AR",
             "room": "404",
-            "teachers": ["Stanford"]
+            "teachers": ["STAFF"]
           }
         ]
       },
@@ -2946,7 +2946,7 @@
             },
             "building": "ENG100",
             "room": "404",
-            "teachers": ["Keaton"]
+            "teachers": ["STAFF"]
           }
         ]
       },
@@ -2968,7 +2968,7 @@
             },
             "building": "AR",
             "room": "AR",
-            "teachers": ["Kianna"]
+            "teachers": ["STAFF"]
           },
           {
             "type": "SMNA",
@@ -2979,7 +2979,7 @@
             },
             "building": "AR",
             "room": "303",
-            "teachers": ["Valentin"]
+            "teachers": ["STAFF"]
           }
         ]
       }
