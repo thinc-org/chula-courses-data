@@ -1573,7 +1573,7 @@
             },
             "building": "AR",
             "room": "505",
-            "teachers": ["NNN", "AST"]
+            "teachers": ["NNN", "AST", "SSS", "ABC", "VKJ", "PNG"]
           }
         ]
       }
@@ -1626,7 +1626,7 @@
             },
             "building": "ENG1",
             "room": "202",
-            "teachers": ["NNN", "AST"]
+            "teachers": ["NNN", "AST", "SSS", "ABC", "VKJ", "PNG"]
           }
         ]
       },
@@ -1648,7 +1648,7 @@
             },
             "building": "AR",
             "room": "101",
-            "teachers": ["NNN", "AST"]
+            "teachers": ["NNN", "AST", "SSS", "ABC", "VKJ", "PNG"]
           }
         ]
       }
@@ -1701,7 +1701,7 @@
             },
             "building": "ENG3",
             "room": "505",
-            "teachers": ["NNN", "AST"]
+            "teachers": ["NNN", "AST", "SSS", "ABC", "VKJ", "PNG"]
           },
           {
             "type": "DISC",
@@ -1712,7 +1712,7 @@
             },
             "building": "ENG100",
             "room": "AR",
-            "teachers": ["NNN", "AST"]
+            "teachers": ["NNN", "AST", "SSS", "ABC", "VKJ", "PNG"]
           }
         ]
       },
@@ -1734,7 +1734,7 @@
             },
             "building": "AR",
             "room": "505",
-            "teachers": ["NNN", "AST"]
+            "teachers": ["NNN", "AST", "SSS", "ABC", "VKJ", "PNG"]
           },
           {
             "type": "IDPS",
@@ -1745,7 +1745,7 @@
             },
             "building": "ENG1",
             "room": "505",
-            "teachers": ["NNN", "AST"]
+            "teachers": ["NNN", "AST", "SSS", "ABC", "VKJ", "PNG"]
           }
         ]
       }
@@ -1798,7 +1798,7 @@
             },
             "building": "ENG100",
             "room": "AR",
-            "teachers": ["NNN", "AST"]
+            "teachers": ["NNN", "AST", "SSS", "ABC", "VKJ", "PNG"]
           }
         ]
       },
@@ -1820,7 +1820,7 @@
             },
             "building": "ENG100",
             "room": "AR",
-            "teachers": ["NNN", "AST"]
+            "teachers": ["NNN", "AST", "SSS", "ABC", "VKJ", "PNG"]
           }
         ]
       },
@@ -1842,7 +1842,7 @@
             },
             "building": "AR",
             "room": "303",
-            "teachers": ["NNN", "AST"]
+            "teachers": ["NNN", "AST", "SSS", "ABC", "VKJ", "PNG"]
           }
         ]
       }
@@ -1895,7 +1895,7 @@
             },
             "building": "ENG3",
             "room": "303",
-            "teachers": ["NNN", "AST"]
+            "teachers": ["NNN", "AST", "SSS", "ABC", "VKJ", "PNG"]
           }
         ]
       },
@@ -1917,7 +1917,7 @@
             },
             "building": "ENG1",
             "room": "505",
-            "teachers": ["NNN", "AST"]
+            "teachers": ["NNN", "AST", "SSS", "ABC", "VKJ", "PNG"]
           },
           {
             "type": "PRAC",
@@ -1928,7 +1928,7 @@
             },
             "building": "ENG100",
             "room": "202",
-            "teachers": ["NNN", "AST"]
+            "teachers": ["NNN", "AST", "SSS", "ABC", "VKJ", "PNG"]
           }
         ]
       },
@@ -1950,7 +1950,7 @@
             },
             "building": "ENG100",
             "room": "101",
-            "teachers": ["NNN", "AST"]
+            "teachers": ["NNN", "AST", "SSS", "ABC", "VKJ", "PNG"]
           }
         ]
       },
@@ -1972,7 +1972,7 @@
             },
             "building": "ENG1",
             "room": "101",
-            "teachers": ["NNN", "AST"]
+            "teachers": ["NNN", "AST", "SSS", "ABC", "VKJ", "PNG"]
           },
           {
             "type": "SMNA",
@@ -1983,7 +1983,7 @@
             },
             "building": "AR",
             "room": "101",
-            "teachers": ["NNN", "AST"]
+            "teachers": ["NNN", "AST", "SSS", "ABC", "VKJ", "PNG"]
           }
         ]
       },
@@ -2005,7 +2005,7 @@
             },
             "building": "ENG2",
             "room": "AR",
-            "teachers": ["NNN", "AST"]
+            "teachers": ["NNN", "AST", "SSS", "ABC", "VKJ", "PNG"]
           },
           {
             "type": "SMNA",
@@ -2016,7 +2016,7 @@
             },
             "building": "ENG1",
             "room": "404",
-            "teachers": ["NNN", "AST"]
+            "teachers": ["NNN", "AST", "SSS", "ABC", "VKJ", "PNG"]
           }
         ]
       }
