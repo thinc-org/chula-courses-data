@@ -15,3 +15,4 @@ for year in years:
 print(f'Total courses: {len(total_courses)} courses')
 with open('courses.json', mode='w', encoding='utf8') as courseFile:
   json.dump(total_courses, courseFile, ensure_ascii=False)
+  
